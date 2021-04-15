@@ -1,2 +1,2 @@
-# ISYS3001_S1_2021
+# ISYS3001.docx
 Public repository for assignment 1
